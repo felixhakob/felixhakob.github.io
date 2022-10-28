@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.targmanutyun{
+    width: 100%;
+    height: 50px;
+    background-color: yellow;
+    position: fixed;
+    text-align: center;
+}
+
+.nkar{
+    width: 100%;
+    height: 400px;
+    background: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nk{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-image: url("../img/felo.jpg");
+    background-size: cover;
+}
+
+.tt{
+    width: 100%;
+    height: 2000px;
+    background: lightgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.info{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.infoch{
+    width: 60%;
+    height: 100%;
+}
+
+.p{
+    font-size: 44px;
+    color: darkgreen;
+}
+
+.sovorel{
+    text-align:center;
+    font-size: 44px;
+}
+
+.nkarneridiv{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.nkar1div img {
+    width: 500px;
+    height: 300px;
+}
+
+.nkar2div img{
+    width: 500px;
+    height: 300px;
+}
+
+.it{
+    font-size: 44px;
+}
+
+.logik{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logo img{
+    width: 200px;
+    height: 250px;
+}
+
+.css img{
+    width: 200px;
+    height: 250px;
+}
+
+.js img{
+    width: 400px;
+    height: 300px;
+}
+
+.naxasirutyun{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nax{
+    text-align:center;
+    font-size: 44px;
+}
+
+.nax text{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.mteq{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
